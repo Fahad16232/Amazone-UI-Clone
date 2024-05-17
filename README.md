@@ -13,6 +13,11 @@ The Amazon UI Clone - Product List API is a Swift project that replicates the us
 - **Dynamic UI:** Uses UIStackView, UITableView, and UITableViewCell XIB for responsiveness.
 - **Light and Dark Mode Support:** Provides a personalized user experience.
 
+
+## Screenshots
+![product_dark](https://github.com/Fahad16232/Amazone-UI-Clone/assets/150152743/b355e592-0bf4-42ce-944f-74f1ae0a8f40)
+![product_light](https://github.com/Fahad16232/Amazone-UI-Clone/assets/150152743/65a047b5-4214-4c63-bca6-66fc9be6a5e6)
+
 ## Technologies Used
 - **Swift:** Core programming language for the project.
 - **UIKit:** Used for building the user interface.
