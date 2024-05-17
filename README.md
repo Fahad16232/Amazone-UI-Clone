@@ -27,4 +27,4 @@ The Amazon UI Clone - Product List API is a Swift project that replicates the us
 3. Build and run the app on a compatible iOS device or simulator.
 
 ```bash
-git clone https://github.com/YogeshPateliOS/Amazon-UI-Clone-Product-List-API.git
+git clone https://github.com/Fahad16232/Amazone-UI-Clone.git
